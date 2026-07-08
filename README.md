@@ -1,16 +1,20 @@
-## Hi there 👋
+# Hiyaa, I'm Angel 👋
 
-<!--
-**angelshah07/angelshah07** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+   I went from solving Rubik's Cubes with algorithms to solving data problems with them.
 
-Here are some ideas to get you started:
+I'm a Data Science student at the University of Regina with an interest in analytics, machine learning, and data visualization.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+This is where I document projects, experiments, and everything I learn along the way.
+
+---
+
+## 💻 Tech Stack
+
+Python • SQL • Git • Tableau • Power BI
+
+##   Beyond Coding
+
+- Speedcubing (Rubik's Cubes)
+- Reading
+- Statistics
+- Finding patterns in just about everything
